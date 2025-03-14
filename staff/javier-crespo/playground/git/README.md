@@ -10,17 +10,28 @@ the stupid content tracker.
 ## Command
 
 ### Git branch
+Lista todas las ramas
 
 ### Git status
+Lista todas las ramas
 
 ### Git log
+Muestra los commits
 
 ### Git switch branch-name
+Cambia de rama
 
 ### Git restore file-path
+Restaura un archivo en la rama
 
 ### Git add file-path
+Agrega un fichero a la rama
 
 ### Git commit -m message
+Realiza el commit
 
 ### Git clone repository-url
+Clona un repositorio remoto
+
+### Git status -u
+Muestra la ruta exacta del archivo da mas detalles
